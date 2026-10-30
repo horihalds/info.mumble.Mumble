@@ -129,6 +129,7 @@ modules:
       - -Dserver=OFF
       - -Doverlay=OFF
       - -Dplugins=OFF
+      - -Dspeechd=OFF
       - -DBUILD_NUMBER=939
       - -DBUILD_RELEASE_DATE=2026-10-11
       - -Dwarnings-as-errors=OFF
